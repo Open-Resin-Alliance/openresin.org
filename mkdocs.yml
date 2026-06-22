@@ -1,0 +1,17 @@
+site_name: Open Resin Alliance
+nav:
+- Home: index.md
+- About: about.md
+- Projects:
+  - projects/index.md
+  - DragonFruit: projects/dragonfruit.md
+  - Orion: projects/orion.md
+  - Odyssey: projects/odyssey.md
+- Affiliates & Sponsors:
+  - affiliates/index.md
+  - Contrapposto Shop: affiliates/contrapposto.md
+  - Concepts3D: affiliates/concepts3d.md
+  - TableFlip Foundry: affiliates/tableflip.md
+
+plugins:
+- section-index
