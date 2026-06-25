@@ -10,9 +10,15 @@ date: 2026-06-21
 
 The Open Resin Alliance builds Free and Open Source solutions for resin 3D printing
 
-## Origin
-The first ever ORA projects, the printer control software stack of [Odyssey](./projects/odyssey.md) & [Orion](./projects/orion.md), was originally developed for use on [Contrapposto Shop](./affiliates/contrapposto.md)'s flagship printer, the Prometheus MSLA.
+## Our Projects
 
-From there the projects grew, and the ORA was formed to better encapsulate our dedication to free and open options for all resin printers.
+### [DragonFruit](./projects/dragonfruit.md)
+Resin Slicer and print preparation software, built with Rust and Typescript using the Tauri framework.
+
+### [Orion](.projects/orion.md)
+Touch-screen printer UI, built with Flutter and compatible with NanoDLP and Odyssey
+
+### [Odyssey](./projects/odyssey.md)
+Printer control software, built with Rust and optimized for the Raspberry Pi
 
 
